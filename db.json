@@ -1,0 +1,112 @@
+{
+  "Cardápio 01": [
+    { 
+    "id": 1,
+    "nome": "X Ratão",
+    "ingredientes": "hamburgue,ovo,molho,alface,tomate" 
+  }
+  ],
+  "Cardápio 02": [
+    {
+    "id": 2,
+    "nome": "X Queijo",
+    "ingredientes":"hamburgue,ovo,molho,alface,tomate e 4 queijos diferentes"  
+  }
+  ],
+  "Cardápio 03": [
+    { 
+    "id": 3,
+    "nome": "X Bacon",
+    "ingredientes": "hamburgue,ovo,molho,alface,tomate,Bacon" 
+  }
+  ],
+  "Cardápio 04": [
+    { 
+    "id": 4,
+    "nome": "x picanha",
+    "ingredientes": "hamburgue,ovo,molho,alface,tomate,picanha" 
+  }
+  ],
+  "Cardápio 05": [
+    { 
+    "id": 5,
+    "nome": "x kid",
+    "ingredientes": "hamburgue junior,ovo,molho,alface,tomate" 
+  }
+  ],
+  "Cardápio 06": [
+    { 
+    "id": 6,
+    "nome": "x mega ",
+    "ingredientes": "3x hamburgue,ovo,molho,alface,tomate" 
+  }
+  ],
+  "Cardápio 07": [
+    { 
+    "id": 7,
+    "nome": "x arte",
+    "ingredientes": "hamburgue feito com carne moida,ovo,molho,alface,tomate" 
+  }
+  ],
+  "Cardápio 08": [
+    { 
+    "id": 8,
+    "nome": "x vegetal",
+    "ingredientes": "hamburgue feito de legumes,ovo,molho,alface,tomate,cebola" 
+  }
+  ],  
+  "Cardápio 09": [
+    { 
+    "id": 9,
+    "nome": " x batata",
+    "ingredientes": "hamburgue de batata,ovo,molho,alface,tomate,cebola" 
+  }
+  ],
+  "Cardápio 10": [
+    { 
+    "id": 10,
+    "nome": "x frango",
+    "ingredientes": "hamburgue de frango,ovo,molho,alface,tomate,cebola" 
+  }
+  ],
+
+  "bebidas": [
+    {
+      "id:": 1,
+      "nome": "coca cola"
+  
+    },
+    {
+      "id:": 2,
+      "abertura": "pepsi"
+    },
+    {
+      "id:": 3,
+      "abertura": "suco"
+    },
+    {
+      "id:": 4,
+      "abertura": "skoll" 
+    }     
+  ],
+
+"petiscos": [
+  {
+    "id:": 1,
+    "nome": "churrasco de carne" 
+  },
+  {
+    "id:": 2,
+    "nome": "churrasco de frango"  
+  },
+  {
+    "id:": 3,
+    "nome": "churrasco de linguiça"
+
+  },
+  {
+    "id:": 4,
+    "nome": "churrasco de panela"
+  }     
+]
+}
